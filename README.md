@@ -21,7 +21,7 @@ Below is an example of a Winbox communications capture that has the following pr
 * Messages containing additional "nested" messages
 
 ### Without Dissector Installed
-![alt text](https://git.vrt.sourcefire.com/dmcdaniel/Winbox_Toolkit/raw/master/Wireshark_Dissector/images/before-dissection.png "Without Dissector Installed")
+![alt text](https://github.com/Cisco-Talos/Winbox_Protocol_Dissector/blob/master/images/before-dissection.png "Without Dissector Installed")
 
 ### With Dissector Installed
-![alt text](https://git.vrt.sourcefire.com/dmcdaniel/Winbox_Toolkit/raw/master/Wireshark_Dissector/images/dissected.png "With Dissector Installed")
+![alt text](https://github.com/Cisco-Talos/Winbox_Protocol_Dissector/blob/master/images/dissected.png "With Dissector Installed")
